@@ -1,8 +1,12 @@
-# QuadMeUp Crossbow
+# Crossbow LoRa RC
 
-_QuadMeUp Crossbow_ is a DIY project that gives 5km (at least) of RC link for UAV (airplanes and drones) for a price below $40. I uses SX1278 (LoRa 868MHz/915MHz) compatible (like HopeRF RFM95W) radio modules connected to Arduino compatible boards. It can be regular Arduino connected via SPI to SX1278 or dedicated board like _Adafruit Feather 32u4 RFM LoRa_ or [LoRa32u4 II](http://bit.ly/2nJv9dd)
+_Crossbow LoRa RC_ is a DIY project that gives 5km (at least) of RC link for UAV (airplanes and drones) for a price below 40€. It currently uses SX1278 (LoRa 868MHz/915MHz) compatible (like HopeRF RFM95W) radio modules connected to Arduino compatible boards. It can be regular Arduino connected via SPI to SX1278 or dedicated board like _Adafruit Feather 32u4 RFM LoRa_ or [LoRa32u4 II](http://bit.ly/2nJv9dd)
 
-Future versions might be ported to [ESP32 LoRa32 modules](http://bit.ly/2BjG47d).
+This project is a fork of DztikuVx and I am going to port it to more powerfull ESP32 LoRa Modules
+
+If you like this project and are willing to support us by helping to buy necessary hardware, feel free to donate BTC to our Bitcoin wallet: 18gGA9nntwGF51mF3faLTgv4VCMrrfrv18
+![Diagram](BTC-Wallet.png)
+
 
 # Current state
 
